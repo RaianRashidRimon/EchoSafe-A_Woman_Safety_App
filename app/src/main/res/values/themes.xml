@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EchoSafeGUIVersion10" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="materialButtonStyle">@style/CustomButtonStyle</item>
+
+    </style>
+
+    <style name="Theme.EchoSafeGUIVersion10" parent="Base.Theme.EchoSafeGUIVersion10" />
+</resources>
