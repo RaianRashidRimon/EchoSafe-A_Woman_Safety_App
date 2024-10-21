@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/record_audio_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    tools:context=".RecordAudioActivity">
+
+    <!-- TextView to display elapsed time -->
+
+    <!-- Stop Button to stop the recording -->
+
+    <TextView
+        android:id="@+id/timerTextView"
+        android:layout_width="130dp"
+        android:layout_height="61dp"
+        android:text="00:00"
+        android:textColor="@android:color/white"
+        android:textSize="48sp"
+        app:layout_constraintBottom_toTopOf="@id/stopButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.4" />
+
+    <Button
+        android:id="@+id/stopButton"
+        android:layout_width="144dp"
+        android:layout_height="105dp"
+        android:layout_marginTop="216dp"
+        android:background="@android:color/holo_red_dark"
+        android:text="Stop"
+        android:textSize="40dp"
+        android:textColor="@android:color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/timerTextView" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -9,6 +9,21 @@
     tools:context=".MainActivity">
 
     <!-- Panic and Siren Buttons -->
+
+    <Button
+        android:id="@+id/whereamiButton"
+        style="@style/CustomButtonStyle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Where am I?"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.531"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/addContactButton"
+        app:layout_constraintVertical_bias="0.84" />
+
     <Button
         android:id="@+id/panicButton"
         style="@style/CustomButtonStyle"
@@ -105,8 +120,9 @@
         android:text="Initiate Fake Call"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.562"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/addContactButton"
-        app:layout_constraintVertical_bias="0.5" />
+        app:layout_constraintVertical_bias="0.599" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
