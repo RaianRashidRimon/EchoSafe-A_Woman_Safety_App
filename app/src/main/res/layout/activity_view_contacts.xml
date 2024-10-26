@@ -43,30 +43,14 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Jane Doe"
+                android:text="Rimon"
                 android:padding="8dp"
                 android:textSize="16sp" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="123-456-7890"
-                android:padding="8dp"
-                android:textSize="16sp" />
-        </TableRow>
-
-        <TableRow>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="John Smith"
-                android:padding="8dp"
-                android:textSize="16sp" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="987-654-3210"
+                android:text="01781431402"
                 android:padding="8dp"
                 android:textSize="16sp" />
         </TableRow>
@@ -75,14 +59,30 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Alice Johnson"
+                android:text="Mitu"
                 android:padding="8dp"
                 android:textSize="16sp" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="555-123-4567"
+                android:text="01312599788"
+                android:padding="8dp"
+                android:textSize="16sp" />
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ezhar Sir"
+                android:padding="8dp"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="01816203074"
                 android:padding="8dp"
                 android:textSize="16sp" />
         </TableRow>
