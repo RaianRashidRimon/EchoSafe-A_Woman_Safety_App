@@ -6,14 +6,14 @@
 
 ## Features
 
-- **🌐 SOS Button**: Sends alerts to preset contacts and authorities, notifying them of the user's location and situation.
-- **🔔 Siren Button**: Triggers a loud siren sound to draw attention to the user’s situation.
-- **👥 View Contacts**: Manage up to 5 emergency contacts, allowing for deletion, addition, or modification anytime.
-- **🎙 Record Audio**: Capture audio recordings in real time for evidence and communication.
-- **🛡 Self Defence**: Provides safety tips, tutorials, and resources for personal protection.
-- **📞 Helpline**: Connects users with law, emergency numbers, and police for immediate support.
-- **📞 Fake Calls**: Simulates an incoming call to discreetly exit uncomfortable situations.
-- **📍 Where Am I?**: Allows users to view and share their current location with trusted contacts.
+-  SOS Button**: Sends alerts to preset contacts and authorities, notifying them of the user's location and situation.
+-  Siren Button**: Triggers a loud siren sound to draw attention to the user’s situation.
+-  View Contacts**: Manage up to 5 emergency contacts, allowing for deletion, addition, or modification anytime.
+-  Record Audio**: Capture audio recordings in real time for evidence and communication.
+-  Self Defence**: Provides safety tips, tutorials, and resources for personal protection.
+-  Helpline**: Connects users with law, emergency numbers, and police for immediate support.
+-  Fake Calls**: Simulates an incoming call to discreetly exit uncomfortable situations.
+-  Where Am I?**: Allows users to view and share their current location with trusted contacts.
 
 ## Installation
 
