@@ -22,7 +22,6 @@ public class HelplineActivity extends AppCompatActivity {
         lawsButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                // URL for the laws page
                 String url = "http://bdlaws.minlaw.gov.bd/act-11/chapter-details-5.html";
                 Intent intent = new Intent(Intent.ACTION_VIEW);
                 intent.setData(Uri.parse(url));
