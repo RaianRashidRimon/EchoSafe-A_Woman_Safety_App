@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "938196646051",
+    "project_id": "echosafe-7f6ea",
+    "storage_bucket": "echosafe-7f6ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938196646051:android:fb83389b2e20e0d7dd2716",
+        "android_client_info": {
+          "package_name": "com.example.echosafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3eI-lvanhl54IB7sSuL2buJ2yzFloQS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
