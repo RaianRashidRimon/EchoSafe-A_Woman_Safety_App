@@ -6,14 +6,14 @@
 
 ## Features
 
-- **🌐 **SOS Button**: Sends alerts to preset contacts and authorities, notifying them of the user's location and situation.
-- **🔔 **Siren Button**: Triggers a loud siren sound to draw attention to the user’s situation.
-- **👥 **View Contacts**: Manage up to 5 emergency contacts, allowing for deletion, addition, or modification anytime.
-- **🎙 **Record Audio**: Capture audio recordings in real time for evidence and communication.
-- **🛡 **Self Defence**: Provides safety tips, tutorials, and resources for personal protection.
-- **📞 **Helpline**: Connects users with law, emergency numbers, and police for immediate support.
-- **📞 **Fake Calls**: Simulates an incoming call to discreetly exit uncomfortable situations.
-- **📍 **Where Am I?**: Allows users to view and share their current location with trusted contacts.
+- **🌐 SOS Button**: Sends alerts to preset contacts and authorities, notifying them of the user's location and situation.
+- **🔔 Siren Button**: Triggers a loud siren sound to draw attention to the user’s situation.
+- **👥 View Contacts**: Manage up to 5 emergency contacts, allowing for deletion, addition, or modification anytime.
+- **🎙 Record Audio**: Capture audio recordings in real time for evidence and communication.
+- **🛡 Self Defence**: Provides safety tips, tutorials, and resources for personal protection.
+- **📞 Helpline**: Connects users with law, emergency numbers, and police for immediate support.
+- **📞 Fake Calls**: Simulates an incoming call to discreetly exit uncomfortable situations.
+- **📍 Where Am I?**: Allows users to view and share their current location with trusted contacts.
 
 ## Installation
 
@@ -42,7 +42,7 @@ To run EchoSafe locally:
 ## Usage
 
 1. **Get Started**: Access the initial splash screen which lasts for 5 seconds before directing to the main features.
-2. **Home Page**: Quickly access features like SOS, Siren, View Contacts, Record Audio, Self Defence, Help Lines, Fake Calls, and Where Am I?.
+2. **Home Page**: Quickly access features like **SOS**, **Siren**, **View Contacts**, **Record Audio**, **Self Defence**, **Help Lines**, **Fake Calls**, and **Where Am I?**.
 3. **View Contacts**: Manage emergency contacts, save up to 5 contacts, and add/delete as needed.
 4. **Record Audio**: Capture important audio recordings during emergencies.
 5. **Self Defence**: Access safety tips and tutorials for personal protection.
