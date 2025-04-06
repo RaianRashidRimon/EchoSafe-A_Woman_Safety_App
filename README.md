@@ -4,5 +4,8 @@ EchoSafe is a comprehensive women's safety application designed to provide emerg
 
 ## ⭐ Features
 
-
+## 🛠 Tech Stack
+- **Android Studio** 
+- **Java** 
+- **Firebase**
 
