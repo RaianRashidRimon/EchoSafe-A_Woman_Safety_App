@@ -10,5 +10,6 @@ EchoSafe is a comprehensive women's safety application designed to provide emerg
 
 
 ## ⭐ Features
-
+1. Registration and Login
+2. 
 
