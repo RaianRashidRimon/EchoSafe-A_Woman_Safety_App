@@ -11,5 +11,8 @@ EchoSafe is a comprehensive women's safety application designed to provide emerg
 
 ## ⭐ Features
 1. Registration and Login
-2. 
+2. Siren button
+3. SOS Button
+4. Add, view and Delete Emergency Contacts
+5. 
 
