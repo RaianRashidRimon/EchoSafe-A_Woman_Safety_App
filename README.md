@@ -23,12 +23,18 @@ EchoSafe is a comprehensive women's safety application designed to provide emerg
 </div>
 
    
-4. Siren button
+### 3. Homepage with the main features
+
+<div align="center">
+  <img src="Assets/homescreen.jpg" alt="homescreen" style="width: 210px;"/>
+</div>
 
 
-5. SOS Button
-6. Add, view and Delete Emergency Contacts
-7. Record Audio
-8. A guide to self defense
-9. National helplines
-10. Initiaiting Fake Call
+### 4. SOS Button
+Send a text message to the contacts with the current location of the user.
+
+7. Add, view and Delete Emergency Contacts
+8. Record Audio
+9. A guide to self defense
+10. National helplines
+11. Initiaiting Fake Call
