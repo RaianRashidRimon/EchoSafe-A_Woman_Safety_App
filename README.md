@@ -26,7 +26,7 @@ EchoSafe is a comprehensive women's safety application designed to provide emerg
 ### 3. Homepage with the main features
 
 <div align="center">
-  <img src="Assets/homescreen.jpg" alt="homescreen" style="width: 210px;"/>
+  <img src="Assets/homescreen.jpg" alt="homescreen" style="width: 240px;"/>
 </div>
 
 
@@ -34,7 +34,7 @@ EchoSafe is a comprehensive women's safety application designed to provide emerg
 Send a text message to the contacts with the current location of the user.
 
 <div align="center">
-  <img src="Assets/sos message.jpeg" alt="sos" style="width: 210px;"/>
+  <img src="Assets/sos message.jpeg" alt="sos" style="width: 270px;"/>
 </div>
 
 7. Add, view and Delete Emergency Contacts
