@@ -33,6 +33,10 @@ EchoSafe is a comprehensive women's safety application designed to provide emerg
 ### 4. SOS Button
 Send a text message to the contacts with the current location of the user.
 
+<div align="center">
+  <img src="Assets/sos message.jpeg" alt="sos" style="width: 210px;"/>
+</div>
+
 7. Add, view and Delete Emergency Contacts
 8. Record Audio
 9. A guide to self defense
