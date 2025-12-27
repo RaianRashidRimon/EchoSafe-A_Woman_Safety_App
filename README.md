@@ -29,8 +29,10 @@ EchoSafe is a comprehensive women's safety application designed to provide emerg
   <img src="Assets/homescreen.jpg" alt="homescreen" style="width: 240px;"/>
 </div>
 
+### 4. Siren
+Plays a loud siren to create an attraction to the victim(s)
 
-### 4. SOS Button
+### 5. SOS Button
 Send a text message to the contacts with the current location of the user.
 
 <div align="center">
