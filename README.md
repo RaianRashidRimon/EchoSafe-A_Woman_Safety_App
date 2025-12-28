@@ -30,7 +30,7 @@ EchoSafe is a comprehensive women's safety application designed to provide emerg
 </div>
 
 ### 4. Siren
-Plays a loud siren to create an attraction to the victim(s)
+Plays a loud siren to create an attraction towards the situation.
 
 ### 5. SOS Button
 Send a text message to the contacts with the current location of the user.
