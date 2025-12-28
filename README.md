@@ -39,7 +39,12 @@ Send a text message to the contacts with the current location of the user.
   <img src="Assets/sos message.jpeg" alt="sos" style="width: 270px;"/>
 </div>
 
-7. Add, view and Delete Emergency Contacts
+### 6. Add (upto 5), view and Delete Emergency Contacts
+   
+<div align="center">
+  <img src="Assets/add contacts.jpg" alt="add cont" style="width: 210px;"/>
+</div>
+
 8. Record Audio
 9. A guide to self defense
 10. National helplines
