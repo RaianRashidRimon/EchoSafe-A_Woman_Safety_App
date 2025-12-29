@@ -45,7 +45,14 @@ Send a text message to the contacts with the current location of the user.
   <img src="Assets/add contacts.jpg" alt="add cont" style="width: 210px;"/>
 </div>
 
-8. Record Audio
+### 7. Record Audio
+Start recording audio with just one click, which will automatically save an mp3 file on the device after a specific time. This is can be used to gather evidence of verbal abuse or threats.
+
+<div align="center">
+  <img src="Assets/recording.jpg" alt="record" style="width: 210px;"/>
+</div>
+
+
 9. A guide to self defense
 10. National helplines
 11. Initiaiting Fake Call
