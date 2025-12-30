@@ -52,10 +52,13 @@ Start recording audio with just one click, which will automatically save an mp3 
   <img src="Assets/recording.jpg" alt="record" style="width: 210px;"/>
 </div>
 
-8. Self-defense
+### 8. Self-defense
 A simple guide to self defense for women.
 
-9. National helplines
+<div align="center">
+  <img src="Assets/self defence.jpg" alt="record" style="width: 210px;"/>
+</div>
+10. National helplines
 
 
 11. Initiaiting Fake Call
