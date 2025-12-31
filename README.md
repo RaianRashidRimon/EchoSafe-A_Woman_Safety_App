@@ -58,7 +58,10 @@ A simple guide to self defense for women.
 <div align="center">
   <img src="Assets/self defence.jpg" alt="record" style="width: 210px;"/>
 </div>
-10. National helplines
+
+### 9. Initiaiting Fake Call
+Initiates a fake call to use as an excuse to get out of any uncomfortable situation
+
 
 
 11. Initiaiting Fake Call
