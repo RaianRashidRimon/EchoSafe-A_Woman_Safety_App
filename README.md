@@ -56,10 +56,16 @@ Start recording audio with just one click, which will automatically save an mp3 
 A simple guide to self defense for women.
 
 <div align="center">
-  <img src="Assets/self defence.jpg" alt="record" style="width: 210px;"/>
+  <img src="Assets/self defence.jpg" alt="defense" style="width: 210px;"/>
 </div>
 
 ### 9. Initiaiting Fake Call
 Initiates a fake call to use as an excuse to get out of any uncomfortable situation
 
-### 10. 
+### 10. Where Am I?
+Shows the user the current location they are in, in case they are lost.
+
+<div align="center">
+  <img src="Assets/location permission.jpg" alt="location" style="width: 210px;"/>
+</div>
+
