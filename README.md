@@ -69,3 +69,18 @@ Shows the user the current location they are in, in case they are lost.
   <img src="Assets/location permission.jpg" alt="location" style="width: 210px;"/>
 </div>
 
+
+## Contributing
+We welcome contributions! To contribute:
+1. Fork the repository.
+2. Create a new feature branch:
+
+    `git checkout -b feature-new-feature`
+
+3. Commit changes and push:
+
+    `git commit -m "Add new feature"`
+  
+    `git push origin feature-new-feature`
+
+4. Submit a pull request.
